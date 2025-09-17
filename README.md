@@ -24,7 +24,7 @@ To design and simulate a 4:1 Multiplexer (MUX) using Verilog HDL in four differe
 ## Logic Diagram
 ![image](https://github.com/user-attachments/assets/d4ab4bc3-12b0-44dc-8edb-9d586d8ba856)
 
----
+--- 
 
 ## Truth Table
 ![image](https://github.com/user-attachments/assets/c850506c-3f6e-4d6b-8574-939a914b2a5f)
